@@ -1,0 +1,30 @@
+body {
+    color:red;
+    background-color:lightgreen;
+    border: 1px;
+    padding: 0%;
+    font-weight: 200;
+    text-decoration: solid;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-image-repeat: repeat;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    text-decoration: solid;
+    font-size: larger;
+}
+
+div {
+    color: brown;
+    text-align: center;
+    box-shadow: dimgray;
+    text-overflow: ellipsis;
+    
+}
+
+#div {
+    border-collapse: collapse;
+
+}
